@@ -1,1 +1,2 @@
 Что такое HTTP?
+What is the HTTP?
